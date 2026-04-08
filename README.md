@@ -9,7 +9,7 @@
 </div>
 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lauraglopez6&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lauraglopez6&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lauraglopez6&theme=jolly) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lauraglopez6&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lauraglopez6&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lauraglopez6&theme=jolly&utcOffset=8) |
 | :-: | :-: | :-: |
 
 <div align="center">
